@@ -12,7 +12,7 @@ writing Java and using Spock for tests. More information about SpockFramework ca
 
 ## Usage
 ```
-mvn archetype:generate -DarchetypeGroupId=us.juggl -DarchetypeArtifactId=spock-bootstrap
+mvn archetype:generate -DarchetypeGroupId=com.zanclus -DarchetypeArtifactId=spock-bootstrap
 ```
 
 ## Download and install the archetype locally
