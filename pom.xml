@@ -4,7 +4,7 @@
 
   <groupId>com.zanclus</groupId>
   <artifactId>spock-bootstrap</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <description>Maven archetype for getting started using SpockFramework for testing</description>
